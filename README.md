@@ -1,3 +1,3 @@
 # Dad-Jokes
 
-Application that displays varipus amounts of dad jokes. 
+Application that displays various amounts of dad jokes. 
